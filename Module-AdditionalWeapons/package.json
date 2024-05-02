@@ -7,7 +7,9 @@
   "author": "DJ",
   "akiVersion": "~3.8",
   "loadBefore": [],
-  "loadAfter": [],
+  "loadAfter": [
+    "DJCore"
+  ],
   "incompatibilities": [],
   "contributors": [
     "SamSWAT"

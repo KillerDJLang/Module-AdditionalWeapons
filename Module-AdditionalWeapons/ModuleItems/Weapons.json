@@ -3,7 +3,6 @@
     "6632aab0b450b045b2160db9": {
       "ItemToClone": "5c488a752e221602b412af63",
       "newID": "6632aab0b450b045b2160db9",
-      "parentID": "5447b5f14bdc2d61278b4567",
       "OverrideProperties": {
         "Prefab": {
           "path": "AdditionalWeaponsDJ/weapons/l85a2/weapon_l85a2_556x45_container.bundle",
@@ -132,8 +131,6 @@
           "description": "The L85A2 is a gas-operated, rotating bolt, magazine fed British assault rifle in a bullpup layout. A2 variant is the result of a significant upgrade in the early 2000s by Heckler & Koch of SA80, which was designed in the 1970s to 1980s."
         }
       },
-      "HandbookParent": "5b5f78fc86f77409407a7f90",
-      "HandbookPrice": 95605,
       "TraderScheme": {
         "AddToTrader": true,
         "AddManualCost": true,
@@ -148,7 +145,6 @@
     "6632abd640e9589cbe50f5c4": {
       "ItemToClone": "5bb20dadd4351e00367faeff",
       "newID": "6632abd640e9589cbe50f5c4",
-      "parentID": "555ef6e44bdc2de9068b457e",
       "OverrideProperties": {
         "Prefab": {
           "path": "AdditionalWeaponsDJ/mods/l85a2/barrel_l85a2_518mm.bundle",
@@ -231,14 +227,11 @@
           "description": "Standard barrel for L85A2 assault rifle for 5.56x45 NATO ammo, 518mm long."
         }
       },
-      "HandbookParent": "5b5f75c686f774094242f19f",
-      "HandbookPrice": 27627,
       "CloneToFilters": true
     },
     "6632ac6284c8d1f2c208fc73": {
       "ItemToClone": "5b7bedd75acfc43d825283f9",
       "newID": "6632ac6284c8d1f2c208fc73",
-      "parentID": "55818a104bdc2db9688b4569",
       "OverrideProperties": {
         "Prefab": {
           "path": "AdditionalWeaponsDJ/mods/l85a2/handguard_l85a2_daniel_defense_rail.bundle",
@@ -253,14 +246,11 @@
           "description": "Aluminium handguard for L85A2, equipped with multiple rail mounts for installation of a wide range of additional equipment."
         }
       },
-      "HandbookParent": "5b5f75e486f77447ec5d7712",
-      "HandbookPrice": 7665,
       "CloneToFilters": true
     },
     "6632acf229c93c0a408f722f": {
       "ItemToClone": "5b7bed205acfc400161d08cc",
       "newID": "6632acf229c93c0a408f722f",
-      "parentID": "55818a104bdc2db9688b4569",
       "OverrideProperties": {
         "Prefab": {
           "path": "AdditionalWeaponsDJ/mods/l85a2/handguard_l85a2_std.bundle",
@@ -275,14 +265,11 @@
           "description": "Regular polymer L85A2 handguard."
         }
       },
-      "HandbookParent": "5b5f75e486f77447ec5d7712",
-      "HandbookPrice": 7665,
       "CloneToFilters": true
     },
     "6632ad3953d16cf21be7522e": {
       "ItemToClone": "5bfebc530db834001d23eb65",
       "newID": "6632ad3953d16cf21be7522e",
-      "parentID": "55818b224bdc2dde698b456f",
       "OverrideProperties": {
         "Prefab": {
           "path": "AdditionalWeaponsDJ/mods/l85a2/mount_l85a2_rail.bundle",
@@ -296,14 +283,11 @@
           "description": "Universal base mount for installation of optical scopes, collimator sights and other devices and accessories on L85A2."
         }
       },
-      "HandbookParent": "5b5f755f86f77447ec5d770e",
-      "HandbookPrice": 2640,
       "CloneToFilters": true
     },
     "6632ad8ddca02e1335f19533": {
       "ItemToClone": "63ac5c9658d0485fc039f0b8",
       "newID": "6632ad8ddca02e1335f19533",
-      "parentID": "550aa4bf4bdc2dd6348b456b",
       "OverrideProperties": {
         "Prefab": {
           "path": "AdditionalWeaponsDJ/mods/l85a2/muzzle_l85a2_556x45.bundle",
@@ -317,14 +301,11 @@
           "description": "Standard muzzle device for L85A2."
         }
       },
-      "HandbookParent": "5b5f724c86f774093f2ecf15",
-      "HandbookPrice": 1340,
       "CloneToFilters": true
     },
     "6632add2cab2e1b57bfb69e4": {
       "ItemToClone": "615d8faecabb9b7ad90f4d5d",
       "newID": "6632add2cab2e1b57bfb69e4",
-      "parentID": "55818a684bdc2ddd698b456d",
       "OverrideProperties": {
         "Prefab": {
           "path": "AdditionalWeaponsDJ/mods/l85a2/pistolgrip_l85a2.bundle",
@@ -338,14 +319,11 @@
           "description": "Standard pistol grip can be installed on L85A2."
         }
       },
-      "HandbookParent": "5b5f761f86f774094242f1a1",
-      "HandbookPrice": 2320,
       "CloneToFilters": true
     },
     "6632ae4604802ce4ac5d8a72": {
       "ItemToClone": "61816fcad92c473c770215cc",
       "newID": "6632ae4604802ce4ac5d8a72",
-      "parentID": "55818ac54bdc2d5b648b456e",
       "OverrideProperties": {
         "Prefab": {
           "path": "AdditionalWeaponsDJ/mods/l85a2/sight_front_l85a2.bundle",
@@ -359,14 +337,11 @@
           "description": "Standard front sight can be installed on L85A2."
         }
       },
-      "HandbookParent": "5b5f746686f77447ec5d7708",
-      "HandbookPrice": 1000,
       "CloneToFilters": true
     },
     "6632ae53381c8a2cc378ecfe": {
       "ItemToClone": "5ae30bad5acfc400185c2dc4",
       "newID": "6632ae53381c8a2cc378ecfe",
-      "parentID": "55818ac54bdc2d5b648b456e",
       "OverrideProperties": {
         "Prefab": {
           "path": "AdditionalWeaponsDJ/mods/l85a2/sight_rear_l85a2.bundle",
@@ -380,14 +355,11 @@
           "description": "Detachable Carry Handle with a rear sight, standard issue for L85A2."
         }
       },
-      "HandbookParent": "5b5f746686f77447ec5d7708",
-      "HandbookPrice": 823,
       "CloneToFilters": true
     },
     "6632b91ca1a7a5564dad34ac": {
       "ItemToClone": "63171672192e68c5460cebc5",
       "newID": "6632b91ca1a7a5564dad34ac",
-      "parentID": "5447b5f14bdc2d61278b4567",
       "OverrideProperties": {
         "Prefab": {
           "path": "AdditionalWeaponsDJ/weapons/famas/weapon_mas_famas_556x45_container.bundle",
@@ -499,8 +471,6 @@
           "description": "The FAMAS (Fusil d'Assaut de la Manufacture d'Armes de Saint-Étienne) is a bullpup assault rifle designed and manufactured in France by MAS in 1978. The FAMAS is recognised for its high rate of fire at 1,100 rounds per minute."
         }
       },
-      "HandbookParent": "5b5f78fc86f77409407a7f90",
-      "HandbookPrice": 34230,
       "TraderScheme": {
         "AddToTrader": true,
         "AddManualCost": true,
@@ -515,7 +485,6 @@
     "6632b12e6de0b8af48c4ad27": {
       "ItemToClone": "62e7c72df68e7a0676050c77",
       "newID": "6632b12e6de0b8af48c4ad27",
-      "parentID": "55818a304bdc2db5418b457d",
       "OverrideProperties": {
         "Prefab": {
           "path": "AdditionalWeaponsDJ/mods/famas/upper_famas.bundle",
@@ -548,14 +517,11 @@
           "shortName": "FAMAS Upper",
           "description": "Standard upper part manufactured by GIAT for FAMAS assault rifle 5.56x45."
         }
-      },
-      "HandbookParent": "5b5f764186f77447ec5d7714",
-      "HandbookPrice": 22640
+      }
     },
     "6632b0e7be199657958cdddd": {
       "ItemToClone": "5c6d46132e221601da357d56",
       "newID": "6632b0e7be199657958cdddd",
-      "parentID": "5448bc234bdc2d3c308b4569",
       "OverrideProperties": {
         "Prefab": {
           "path": "AdditionalWeaponsDJ/mods/famas/mag_famas_556x45_25.bundle",
@@ -603,10 +569,9 @@
           "description": "25-round standard GIAT FAMAS metal magazine for 5.56x45 NATO cartridges."
         }
       },
-      "HandbookParent": "5b5f754a86f774094242f19b",
-      "HandbookPrice": 3120,
       "TraderScheme": {
         "AddToTrader": true,
+        "AddManualCost": true,
         "TraderToUse": "5935c25fb3acc3127c3d8cd9",
         "CurrencyToUse": "5696686a4bdc2da3298b456a",
         "Cost": 25,
@@ -617,7 +582,6 @@
     "6632b08e74de51403f059e69": {
       "ItemToClone": "5d440b93a4b9364276578d4b",
       "newID": "6632b08e74de51403f059e69",
-      "parentID": "555ef6e44bdc2de9068b457e",
       "OverrideProperties": {
         "Prefab": {
           "path": "AdditionalWeaponsDJ/mods/famas/barrel_famas_488mm.bundle",
@@ -682,14 +646,11 @@
           "description": "A barrel for GIAT FAMAS 5.56x45 ammo, 488mm long."
         }
       },
-      "HandbookParent": "5b5f75c686f774094242f19f",
-      "HandbookPrice": 26460,
       "CloneToFilters": true
     },
     "6632b03eca6e447ccb92b08e": {
       "ItemToClone": "5c6d46132e221601da357d56",
       "newID": "6632b03eca6e447ccb92b08e",
-      "parentID": "5448bc234bdc2d3c308b4569",
       "OverrideProperties": {
         "Prefab": {
           "path": "AdditionalWeaponsDJ/mods/famas/mag_famas_556x45_30.bundle",
@@ -737,10 +698,9 @@
           "description": "30-round extended GIAT FAMAS metal magazine for 5.56x45 NATO cartridges."
         }
       },
-      "HandbookParent": "5b5f754a86f774094242f19b",
-      "HandbookPrice": 4210,
       "TraderScheme": {
         "AddToTrader": true,
+        "AddManualCost": true,
         "TraderToUse": "5935c25fb3acc3127c3d8cd9",
         "CurrencyToUse": "5696686a4bdc2da3298b456a",
         "Cost": 30,
@@ -751,7 +711,6 @@
     "6632b00709ecfdb16444e5ff": {
       "ItemToClone": "62669bccdb9ebb4daa44cd14",
       "newID": "6632b00709ecfdb16444e5ff",
-      "parentID": "550aa4bf4bdc2dd6348b456b",
       "OverrideProperties": {
         "Prefab": {
           "path": "AdditionalWeaponsDJ/mods/famas/muzzle_famas_flash_hider.bundle",
@@ -765,14 +724,11 @@
           "description": "Standard issue flash hider designed for installation on GIAT FAMAS chambered in 5.56x45mm."
         }
       },
-      "HandbookParent": "5b5f724c86f774093f2ecf15",
-      "HandbookPrice": 1340,
       "CloneToFilters": true
     },
     "6632afdb57948b8c9c11b447": {
       "ItemToClone": "5bfebc530db834001d23eb65",
       "newID": "6632afdb57948b8c9c11b447",
-      "parentID": "55818b224bdc2dde698b456f",
       "OverrideProperties": {
         "Prefab": {
           "path": "AdditionalWeaponsDJ/mods/famas/mount_famas_opticrail.bundle",
@@ -786,14 +742,11 @@
           "description": "Custom top mount for installation of optical scopes, collimator sights and other devices and accessories on FAMAS."
         }
       },
-      "HandbookParent": "5b5f755f86f77447ec5d770e",
-      "HandbookPrice": 5640,
       "CloneToFilters": true
     },
     "6632aefb9ade0e483d1196af": {
       "ItemToClone": "59e0be5d86f7742d48765bd2",
       "newID": "6632aefb9ade0e483d1196af",
-      "parentID": "55818b224bdc2dde698b456f",
       "OverrideProperties": {
         "Prefab": {
           "path": "AdditionalWeaponsDJ/mods/famas/mount_famas_side.bundle",
@@ -807,14 +760,11 @@
           "description": "Short side rail allows you to install additional equipment on the side of a FAMAS assault rifle."
         }
       },
-      "HandbookParent": "5b5f755f86f77447ec5d770e",
-      "HandbookPrice": 2033,
       "CloneToFilters": true
     },
     "6632aec88ead7013b94b0592": {
       "ItemToClone": "59e0bed186f774156f04ce84",
       "newID": "6632aec88ead7013b94b0592",
-      "parentID": "55818b224bdc2dde698b456f",
       "OverrideProperties": {
         "Prefab": {
           "path": "AdditionalWeaponsDJ/mods/famas/mount_famas_bottom.bundle",
@@ -828,8 +778,6 @@
           "description": "Bottom rail allows you to install different foregrips on a FAMAS assault rifle."
         }
       },
-      "HandbookParent": "5b5f755f86f77447ec5d770e",
-      "HandbookPrice": 3340,
       "CloneToFilters": true
     }
   }

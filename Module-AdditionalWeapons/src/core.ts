@@ -67,15 +67,15 @@ class ModuleAdditionalWeapons implements IPostDBLoadMod
     {
         logger.log(
             `[DJCore] ----------------------------------------------------------------`,
-            LogTextColor.CYAN
+            LogTextColor.MAGENTA
         );
         logger.log(
             `[DJCore]               ${modName} Loaded`,
-            LogTextColor.CYAN
+            LogTextColor.MAGENTA
         );
         logger.log(
             `[DJCore] ----------------------------------------------------------------`,
-            LogTextColor.CYAN
+            LogTextColor.MAGENTA
         );
     }
 }
