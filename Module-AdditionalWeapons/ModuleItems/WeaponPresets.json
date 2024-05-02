@@ -1,0 +1,110 @@
+{
+  "ItemPresets": {
+    "6632bb0f334f6b4b261ebfea": {
+      "_changeWeaponName": false,
+      "_encyclopedia": "6632aab0b450b045b2160db9",
+      "_id": "6632bb0f334f6b4b261ebfea",
+      "_items": [
+        {
+          "_id": "6632bb166a640078a80d4c39",
+          "_tpl": "6632aab0b450b045b2160db9"
+        },
+        {
+          "_id": "6632bb1da038398b326c4285",
+          "_tpl": "6632ac6284c8d1f2c208fc73",
+          "parentId": "6632bb166a640078a80d4c39",
+          "slotId": "mod_handguard"
+        },
+        {
+          "_id": "6632bb200b9ade4ce198b65e",
+          "_tpl": "6632abd640e9589cbe50f5c4",
+          "parentId": "6632bb166a640078a80d4c39",
+          "slotId": "mod_barrel"
+        },
+        {
+          "_id": "6632bb254b0d7ad9a10d9afe",
+          "_tpl": "6632ad8ddca02e1335f19533",
+          "parentId": "6632bb200b9ade4ce198b65e",
+          "slotId": "mod_muzzle"
+        },
+        {
+          "_id": "6632bb292b67d7d7210284d3",
+          "_tpl": "6632ad3953d16cf21be7522e",
+          "parentId": "6632bb166a640078a80d4c39",
+          "slotId": "mod_scope"
+        },
+        {
+          "_id": "6632bb2c677ad233ccbbd452",
+          "_tpl": "6632add2cab2e1b57bfb69e4",
+          "parentId": "6632bb166a640078a80d4c39",
+          "slotId": "mod_pistol_grip"
+        },
+        {
+          "_id": "6632bb2fdde8a8ad2bff5580",
+          "_tpl": "55d4887d4bdc2d962f8b4570",
+          "parentId": "6632bb166a640078a80d4c39",
+          "slotId": "mod_magazine"
+        }
+      ],
+      "_name": "L85A2 Base",
+      "_parent": "6632bb166a640078a80d4c39",
+      "_type": "Preset"
+    },
+    "6632bab6994fd274f96e64fb": {
+      "_changeWeaponName": false,
+      "_encyclopedia": "6632b91ca1a7a5564dad34ac",
+      "_id": "6632bab6994fd274f96e64fb",
+      "_items": [
+        {
+          "_id": "6632bac24effc503d8e1c22e",
+          "_tpl": "6632b91ca1a7a5564dad34ac"
+        },
+        {
+          "_id": "6632bad62668b3a7b0d67118",
+          "_tpl": "6632b08e74de51403f059e69",
+          "parentId": "6632bac24effc503d8e1c22e",
+          "slotId": "mod_muzzle"
+        },
+        {
+          "_id": "6632badad2a972ccaeafefd4",
+          "_tpl": "6632b00709ecfdb16444e5ff",
+          "parentId": "6632bad62668b3a7b0d67118",
+          "slotId": "mod_muzzle"
+        },
+        {
+          "_id": "6632bade525a20fa73afae15",
+          "_tpl": "6632b12e6de0b8af48c4ad27",
+          "parentId": "6632bac24effc503d8e1c22e",
+          "slotId": "mod_scope"
+        },
+        {
+          "_id": "6632bae3677bf783b1677858",
+          "_tpl": "6632afdb57948b8c9c11b447",
+          "parentId": "6632bade525a20fa73afae15",
+          "slotId": "mod_mount"
+        },
+        {
+          "_id": "6632bae65b380b674f55cad9",
+          "_tpl": "6632aefb9ade0e483d1196af",
+          "parentId": "6632bac24effc503d8e1c22e",
+          "slotId": "mod_tactical_002"
+        },
+        {
+          "_id": "6632baec17340b8a4c4b24df",
+          "_tpl": "6632aec88ead7013b94b0592",
+          "parentId": "6632bac24effc503d8e1c22e",
+          "slotId": "mod_handguard"
+        },
+        {
+          "_id": "6632baef4f654054835f0ee3",
+          "_tpl": "6632b03eca6e447ccb92b08e",
+          "parentId": "6632bac24effc503d8e1c22e",
+          "slotId": "mod_magazine"
+        }
+      ],
+      "_name": "Famas Base",
+      "_parent": "6632bac24effc503d8e1c22e",
+      "_type": "Preset"
+    }
+  }
+}

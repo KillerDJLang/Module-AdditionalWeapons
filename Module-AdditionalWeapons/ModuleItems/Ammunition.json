@@ -1,0 +1,152 @@
+{
+  "AdditionalAmmo": {
+    "6632c0fff61c6eba7bd85fd3": {
+      "ItemToClone": "54527a984bdc2d4e668b4567",
+      "newID": "6632c0fff61c6eba7bd85fd3",
+      "parentID": "5485a8684bdc2da71d8b4567",
+      "OverrideProperties": {
+        "ArmorDamage": 40,
+        "Damage": 63
+      },
+      "LocalePush": {
+        "en": {
+          "name": "DJs Custom M855",
+          "shortName": "DJ M855",
+          "description": "A custom round originating from the cold North of Canada. An M855 equivalent."
+        }
+      },
+      "HandbookParent": "5b47574386f77428ca22b33b",
+      "HandbookPrice": 399,
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "5935c25fb3acc3127c3d8cd9",
+        "CurrencyToUse": "5696686a4bdc2da3298b456a",
+        "Cost": 4,
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "LootPush": {
+        "AddToStaticLoot": true,
+        "LootContainersToAdd": [
+          "5909d89086f77472591234a0",
+          "5909d7cf86f77470ee57d75a",
+          "5909d76c86f77471e53d2adf",
+          "5909d5ef86f77467974efbd8",
+          "578f87ad245977356274f2cc"
+        ],
+        "StaticLootProbability": 23
+      }
+    },
+    "6632c1052c04675ac2317b02": {
+      "ItemToClone": "59e6906286f7746c9f75e847",
+      "newID": "6632c1052c04675ac2317b02",
+      "parentID": "5485a8684bdc2da71d8b4567",
+      "OverrideProperties": {
+        "ArmorDamage": 48,
+        "Damage": 60
+      },
+      "LocalePush": {
+        "en": {
+          "name": "DJs Custom M856A1",
+          "shortName": "DJ M856A1",
+          "description": "A custom round originating from the cold North of Canada. An M856A1 equivalent."
+        }
+      },
+      "HandbookParent": "5b47574386f77428ca22b33b",
+      "HandbookPrice": 649,
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "5935c25fb3acc3127c3d8cd9",
+        "CurrencyToUse": "5696686a4bdc2da3298b456a",
+        "Cost": 7,
+        "LoyaltyLevel": 2
+      },
+      "CloneToFilters": true,
+      "LootPush": {
+        "AddToStaticLoot": true,
+        "LootContainersToAdd": [
+          "5909d89086f77472591234a0",
+          "5909d7cf86f77470ee57d75a",
+          "5909d76c86f77471e53d2adf",
+          "5909d5ef86f77467974efbd8",
+          "578f87ad245977356274f2cc"
+        ],
+        "StaticLootProbability": 17
+      }
+    },
+    "6632c10b327709924c6d608d": {
+      "ItemToClone": "59e690b686f7746c9f75e848",
+      "newID": "6632c10b327709924c6d608d",
+      "parentID": "5485a8684bdc2da71d8b4567",
+      "OverrideProperties": {
+        "ArmorDamage": 53,
+        "Damage": 57
+      },
+      "LocalePush": {
+        "en": {
+          "name": "DJs Custom M995",
+          "shortName": "DJ M995",
+          "description": "A custom round originating from the cold North of Canada. An M995 equivalent."
+        }
+      },
+      "HandbookParent": "5b47574386f77428ca22b33b",
+      "HandbookPrice": 949,
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "5935c25fb3acc3127c3d8cd9",
+        "CurrencyToUse": "5696686a4bdc2da3298b456a",
+        "Cost": 10,
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "LootPush": {
+        "AddToStaticLoot": true,
+        "LootContainersToAdd": [
+          "5909d89086f77472591234a0",
+          "5909d7cf86f77470ee57d75a",
+          "5909d76c86f77471e53d2adf",
+          "5909d5ef86f77467974efbd8",
+          "578f87ad245977356274f2cc"
+        ],
+        "StaticLootProbability": 10
+      }
+    },
+    "6632c110ce94144268b45bd6": {
+      "ItemToClone": "601949593ae8f707c4608daa",
+      "newID": "6632c110ce94144268b45bd6",
+      "parentID": "5485a8684bdc2da71d8b4567",
+      "OverrideProperties": {
+        "ArmorDamage": 54,
+        "Damage": 79
+      },
+      "LocalePush": {
+        "en": {
+          "name": "DJs Custom SSA AP",
+          "shortName": "DJ AP",
+          "description": "A custom round originating from the cold North of Canada. An SSA AP equivalent."
+        }
+      },
+      "HandbookParent": "5b47574386f77428ca22b33b",
+      "HandbookPrice": 1349,
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "5935c25fb3acc3127c3d8cd9",
+        "CurrencyToUse": "5696686a4bdc2da3298b456a",
+        "Cost": 15,
+        "LoyaltyLevel": 4
+      },
+      "CloneToFilters": true,
+      "LootPush": {
+        "AddToStaticLoot": true,
+        "LootContainersToAdd": [
+          "5909d89086f77472591234a0",
+          "5909d7cf86f77470ee57d75a",
+          "5909d76c86f77471e53d2adf",
+          "5909d5ef86f77467974efbd8",
+          "578f87ad245977356274f2cc"
+        ],
+        "StaticLootProbability": 5
+      }
+    }
+  }
+}
